@@ -1,0 +1,6 @@
+projectKey=python-vulnerable
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=python-vulnerable
+ceTaskId=AXe4eNIhM3tq5MGC4RDj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXe4eNIhM3tq5MGC4RDj
